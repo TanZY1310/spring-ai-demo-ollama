@@ -4,7 +4,7 @@ The language model that is used in this example is llama version 3.1
 
 This is a sample test using ollama with spring ai to perform chat related or other tasks
 
-Can be executed via localhost / postman / any other methods that can be used to call api
+Can be executed via browser localhost / postman / any other methods that can be used to call api
 
 Note:
 1. The default path requests the AI Model to write a simple landing page in html
