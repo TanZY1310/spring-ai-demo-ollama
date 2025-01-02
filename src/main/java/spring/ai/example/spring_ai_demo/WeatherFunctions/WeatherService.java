@@ -37,7 +37,6 @@ public class WeatherService
         return response;
     }
 
-    // mapping the response of the Weather API to records. I only mapped the information I was interested in.
     public record WeatherRequest(String city) {}
     public record WeatherResponse(Location location,Current current) {}
     public record Location(String name, String region, String country, Long lat, Long lon){}
