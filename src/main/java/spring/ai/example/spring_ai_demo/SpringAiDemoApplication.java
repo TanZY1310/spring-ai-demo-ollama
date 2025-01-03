@@ -7,7 +7,8 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 
 @EnableConfigurationProperties(WeatherConfigProperties.class)
 @SpringBootApplication
-public class SpringAiDemoApplication {
+public class
+SpringAiDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringAiDemoApplication.class, args);
