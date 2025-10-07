@@ -1,4 +1,4 @@
-Ollama is an open source llm (large language model)
+Ollama is an open source llm (language learning model)
 
 The language model that is used in this example is llama version 3.1
 
